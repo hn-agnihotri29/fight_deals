@@ -3,8 +3,8 @@ from pprint import pprint
 from flight_data import FlightData
 from datetime import datetime, timedelta
 
-KIWI_ENDPOINT = "https://api.tequila.kiwi.com"
-KIWI_API_KEY = "oK1xXCSOy2SPM4z5Kino3zvX6SmQ7-mD"
+KIWI_ENDPOINT = "KIWI_API"
+KIWI_API_KEY = "KIWI_API_KEY"
 
 headers = {
     "apikey": KIWI_API_KEY,
